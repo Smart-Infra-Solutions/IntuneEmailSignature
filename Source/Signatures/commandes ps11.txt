@@ -1,0 +1,2 @@
+cd C:\intunewin\IntuneEmailSignature\Source
+PowerShell.exe -ExecutionPolicy Bypass -File install.ps1
